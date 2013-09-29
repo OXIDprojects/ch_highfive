@@ -1,5 +1,5 @@
 <?php
-class mst_ch_highfive extends mst_ch_highfive_parent
+class mst_oxprice_ch_highfive extends mst_oxprice_ch_highfive_parent
 {
     public function getPrice()
     {
